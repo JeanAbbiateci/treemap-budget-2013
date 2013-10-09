@@ -1,0 +1,71 @@
+
+#right-container {
+    right:0;
+    background-image:url('http://thejit.org/static/v20/Jit/Examples/css/col1.png');
+    background-position:center left;
+    border-right:1px solid #ddd;
+}
+
+#right-container h4{
+    text-indent:8px;
+}
+
+#center-container {
+    width:710px;
+	height:1800px;
+    left:0x;
+    background-color:#ffffff;
+    color:#ccc;
+	font-family: Georgia, Lucida Grande, Verdana;
+    font-size: 1.2em;
+    
+    }
+
+.text {
+    margin: 7px;
+}
+
+
+
+
+.text {
+    margin: 7px;
+}
+
+
+
+
+#infovis {
+    position:absolute;
+	opacity : 0.8; 
+    filter : alpha(opacity=80); 
+  	background-color:#ffffff;
+    width:710x;
+    height:1800px;
+    margin:auto;
+	overflow:hidden;
+	text-align:center;
+	
+	
+}
+
+/*TOOLTIPS*/
+.tip {
+    color: #111;
+    width: 400px;
+	height: 355px;
+    background-color: #a50000;
+    border:1px solid #555;
+    -moz-box-shadow:#555 2px 2px 8px;
+    -webkit-box-shadow:#555 2px 2px 8px;
+    -o-box-shadow:#555 2px 2px 8px;
+    box-shadow:#555 2px 2px 8px;
+   
+    font-size:12px;
+    font-family:Georgia,Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding:7px;
+}
+
+
+
+

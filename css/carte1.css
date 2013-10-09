@@ -1,0 +1,49 @@
+
+
+.input {
+    background: #fff;
+	height: 14px;
+	color: gray;
+}
+.button {
+    background: #a50000;
+	cursor:pointer;
+}
+
+#headertext {
+	margin:4px 4px;
+	height: 274px;
+	font-size: 1em;
+	background: #FFF;	
+}
+
+#expand {
+	color: #1959A6;
+	cursor:pointer;
+	font-size:.9em;
+	border-top-width: thin;
+	border-top-style: solid; 
+	border-top-color: #CC9900;
+}
+
+#expand:hover {
+	text-decoration: underline;
+}
+
+
+#map_canvas {
+    width: 705px;
+    height: 600px;
+    }
+	
+#graphique1 {
+    width: 705px;
+    height: 500px;
+    }
+	
+#source {
+width: 705px;
+height: 600px;
+    }
+
+
